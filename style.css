@@ -1,0 +1,138 @@
+body {
+  margin: 0;
+  /* block menu1*/
+}
+body nav {
+  display: flex;
+  text-align: center;
+}
+body .nav_right {
+  margin: 10px;
+  text-decoration: none;
+}
+body a {
+  text-decoration: overline;
+}
+body body {
+  width: 100%;
+  margin: 10px;
+}
+body nav {
+  display: flex;
+}
+body .main {
+  padding-top: 40px;
+  display: flex;
+}
+body .nav_right a:hover {
+  background-color: #a9ceee;
+}
+body .nav_right a {
+  padding: 20px;
+  text-decoration: none;
+  font-size: 18px;
+  color: gray;
+}
+body .nav_left {
+  margin: 5px;
+  margin-left: 350px;
+}
+body .nav_left input {
+  border: 1px solid;
+  border-radius: 1px;
+  background-color: #d3c9c9;
+  padding: 10px;
+}
+body .menu1 {
+  padding-top: 30px;
+}
+body .list {
+  background-color: #e0dacf;
+}
+body .list ul {
+  display: inline-flex;
+  padding: 8px;
+}
+body .list li a {
+  margin: 20px;
+  text-decoration: none;
+}
+body .list ul li {
+  list-style: none;
+  font-size: 17px;
+}
+body .list ul li a {
+  color: gray;
+}
+body .list a:hover {
+  background-color: #36e936;
+}
+body .photo {
+  background: url("../img/Guest-Post-660x400@2x.jpg") center/cover no-repeat fixed;
+}
+body .pic {
+  width: 100%;
+  height: 500px;
+}
+body .photo {
+  background: url("../img/Guest-Post-660x400@2x.jpg") center/cover no-repeat fixed;
+  width: 100%;
+  height: 1200px;
+}
+body .photo img {
+  width: 100%;
+}
+body .photo h1 {
+  text-align: center;
+  color: white;
+}
+body .img img {
+  width: 18%;
+  display: inline-flex;
+  margin: 20px;
+  text-align: center;
+}
+body .img {
+  text-align: center;
+}
+body .img a :hover {
+  background-color: #b3a3a3;
+}
+body .menu {
+  text-align: center;
+}
+body .menu div {
+  display: inline-flex;
+  margin: 15px;
+  background-color: #54d354;
+  width: 22%;
+  height: 180px;
+}
+body .menu h2 {
+  text-align: center;
+  color: white;
+  padding: 20px 40px;
+}
+body .menu div:hover {
+  background-color: wheat;
+}
+body .menu h1 {
+  color: #494848;
+}
+body .container {
+  display: inline-flex;
+}
+body .footer {
+  background-color: #eee3e3;
+}
+body .container div {
+  margin: 40px 50px;
+}
+body .container a {
+  text-decoration: none;
+}
+body .footer h4 {
+  color: #868383;
+}
+
+/*# sourceMappingURL=style.css.map */
